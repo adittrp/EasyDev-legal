@@ -1,6 +1,6 @@
 # Terms and Conditions
 
-Effective Date: [Insert Date]
+Effective Date: August 21, 2025
 
 Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using the EasyDev mobile application "EasyDev - Learn to Code" operated by Adit Tripathi ("us", "we", or "our").
 
